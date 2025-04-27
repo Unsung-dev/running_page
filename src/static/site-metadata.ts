@@ -16,7 +16,7 @@ const getBasePath = () => {
 
 const data: ISiteMetadataResult = {
   siteTitle: 'Unsung Running Page',
-  siteUrl: 'https://www.gavin-dev.com/',
+  siteUrl: 'https://x.com/Unsung9521',
   logo: '/images/avatar.png',
   description: 'Personal site and blog',
   navLinks: [
@@ -26,11 +26,11 @@ const data: ISiteMetadataResult = {
     },
     {
       name: 'Blog',
-      url: 'https://www.gavin-dev.com/',
+      url: 'https://x.com/Unsung9521',
     },
     {
       name: 'About',
-      url: 'https://www.gavin-dev.com/',
+      url: 'https://x.com/Unsung9521',
     },
   ],
 };
