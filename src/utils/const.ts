@@ -52,7 +52,7 @@ const RICH_TITLE = false;
 // IF you outside China please make sure IS_CHINESE = false
 const IS_CHINESE = true;
 const USE_ANIMATION_FOR_GRID = false;
-const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string => {
+const CHINESE_INFO_MESSAGE = (yearLength: number, year: string): string[] => {
   const yearStr = year === 'Total' ? '所有' : ` ${year} `;
   return [
     '人生就是不断放弃的过程，但唯有跑步这件事，不能轻易说放弃。',
