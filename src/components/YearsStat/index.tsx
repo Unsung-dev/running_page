@@ -23,6 +23,8 @@ const YearsStat = ({
         <p className="leading-relaxed">
           {INFO_MESSAGE(years.length, year)}
           <br />
+          <br />
+          人生就是不断放弃的过程，但唯有跑步这件事，不能轻易说放弃。
         </p>
       </section>
       <hr color="red" />
