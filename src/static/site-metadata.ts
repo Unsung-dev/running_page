@@ -17,7 +17,7 @@ const getBasePath = () => {
 const data: ISiteMetadataResult = {
   siteTitle: "Gavin's Running Page",
   siteUrl: 'https://dia.us.kg/',
-  logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+  logo: '/images/avatar.png',
   description: 'Personal site and blog',
   navLinks: [
     {
